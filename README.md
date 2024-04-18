@@ -6,7 +6,7 @@ This Windows application assists in creating unix timestamps for use in Discord.
 
  ## To install:
 
- Download the DiscordTimestamper.exe file located in bin/Debug. This is the only file you need.
+ Download the DiscordTimestamper.exe file located in bin/Debug ([here](https://github.com/deegdumdoodilly/discord-timestamper/blob/main/bin/Debug/DiscordTimestamp.exe)). This is the only file you need.
  
  Consider saving the file in your programs folder, creating a shortcut by pinning it to your Start menu, and [assigning it a shortcut key](https://windows.tips.net/T011721_Assigning_a_Shortcut_Key_to_a_Desktop_Shortcut.html).
 
