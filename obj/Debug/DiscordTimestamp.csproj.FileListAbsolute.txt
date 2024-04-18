@@ -1,0 +1,10 @@
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\bin\Debug\DiscordTimestamp.exe.config
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\bin\Debug\DiscordTimestamp.exe
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\bin\Debug\DiscordTimestamp.pdb
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.Properties.Resources.resources
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.csproj.GenerateResource.cache
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.exe
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.pdb
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.MainForm.resources
+C:\Users\jessi\Documents\Projects\DiscordTimestamp\obj\Debug\DiscordTimestamp.csprojAssemblyReference.cache
