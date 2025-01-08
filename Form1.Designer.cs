@@ -57,10 +57,11 @@
             this.MeridianBox.FormattingEnabled = true;
             this.MeridianBox.Items.AddRange(new object[] {
             "AM",
-            "PM"});
+            "PM",
+            "24HR"});
             this.MeridianBox.Location = new System.Drawing.Point(127, 10);
             this.MeridianBox.Name = "MeridianBox";
-            this.MeridianBox.Size = new System.Drawing.Size(58, 32);
+            this.MeridianBox.Size = new System.Drawing.Size(73, 32);
             this.MeridianBox.TabIndex = 2;
             // 
             // CopyButton
@@ -104,7 +105,9 @@
             this.HourBox.Name = "HourBox";
             this.HourBox.Size = new System.Drawing.Size(31, 32);
             this.HourBox.TabIndex = 0;
+            this.HourBox.Click += new System.EventHandler(this.HourBox_Click);
             this.HourBox.TextChanged += new System.EventHandler(this.HourBox_TextChanged);
+            this.HourBox.Enter += new System.EventHandler(this.HourBox_Enter);
             // 
             // MinuteBox
             // 
@@ -115,7 +118,9 @@
             this.MinuteBox.Name = "MinuteBox";
             this.MinuteBox.Size = new System.Drawing.Size(31, 32);
             this.MinuteBox.TabIndex = 1;
+            this.MinuteBox.Click += new System.EventHandler(this.MinuteBox_Click);
             this.MinuteBox.TextChanged += new System.EventHandler(this.MinuteBox_TextChanged);
+            this.MinuteBox.Enter += new System.EventHandler(this.MinuteBox_Enter);
             // 
             // MainForm
             // 
